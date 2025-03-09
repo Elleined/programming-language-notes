@@ -22,6 +22,9 @@ Notes for Programming Languange
 ## Low-level
 ## High-level
 
+# Confusing function calls concepts
+## Closure
+## Callback
 
 # Programming Languange Ranked by Hardest to Easiest (Based on my opinion only)!
 1. Assembly
